@@ -47,8 +47,22 @@ To install these packages, do the following:
 
 To improve the structure and readability of the code, the __poly.py__ file is comprised of the following code blocks:
 
-__Libraries:___: This block imports all required packages (numpy, 
+__Libraries:__: This block imports all required packages (numpy, 
 matplotlib, LinearRegression from sklearn.linear_model and PolynomialFeatures from 
 sklearn.preprocessing package)
+
+__Sets:__: Declare and initialize the training and testing sets 
+(the x-variable is the years of experience and the y-variable is the CEO's av
+monthly salary)
+
+__Subplots:__: Create subplots and train the LinearRegression model to 
+plot a prediction using the training data. 
+
+__Polynomial Degrees:___ 
+- Establish the relation of different degrees to create Polynomial Degrees;
+- Create train and accuracy lists to store accuracy of train and test data on different Polynomial models. 
+- Plot graph
+
+
 
 
