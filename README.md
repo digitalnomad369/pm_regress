@@ -100,14 +100,4 @@ tammyleebastian@gmail.com
 
   © Tammy-Lee Bastian
  
- Licensed under the[MIT LICENSE]
-
-
-
-
-
-
-
-
-
-
+ Licensed under the[MIT LICENSE](License)
